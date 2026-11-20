@@ -1,0 +1,18 @@
+# Configuración real de tu trabajo y archivos de Excel (nunca subir)
+config.json
+INPUT/
+OUTPUT/
+BACKUP/
+*.xlsx
+*.xlsm
+!docs/*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+*.spec
