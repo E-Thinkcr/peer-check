@@ -8,6 +8,8 @@ Reemplaza la revisión manual de "cuatro ojos": lo que antes era comparar column
 
 *Ejemplo con datos ficticios (`ejemplo/generar_ejemplo.py`).*
 
+📘 **[Guía de uso paso a paso](docs/GUIA_DE_USO.md)**: instalación, cómo preparar el Excel, correr la revisión y leer el resultado.
+
 ## Qué hace
 
 - **Empareja los registros**: el Agent 1 con el Mirror 1, el Agent 2 con el Mirror 2, y así sucesivamente, en todas las hojas del libro.
