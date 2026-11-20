@@ -1,0 +1,42 @@
+{
+  "marcador_mirror": "MIRROR",
+  "campos_criticos": [
+    "ACCOUNT TYPE",
+    "NETWORK",
+    "SUBNETWORK",
+    "BANK CODE",
+    "BANK ACCOUNT",
+    "ROUTING NUMBER",
+    "BRANCH",
+    "PAYMENT METHOD",
+    "SETTLEMENT TYPE",
+    "COMMISSION PLAN",
+    "STATUS"
+  ],
+  "campos_excluidos": [
+    "ID",
+    "TERMINAL ID",
+    "LATITUDE",
+    "LONGITUDE",
+    "START DATE",
+    "END DATE",
+    "EMAIL",
+    "PHONE",
+    "REQUEST NUMBER",
+    "TICKET NUMBER",
+    "ZIP",
+    "CREATED DATE",
+    "UPDATED DATE"
+  ],
+  "campos_sensibles": [
+    "BANK ACCOUNT",
+    "ROUTING NUMBER",
+    "TAX ID"
+  ],
+  "hojas_ignoradas": [
+    "INSTRUCTIONS"
+  ],
+  "ignorar_ceros_izquierda": true,
+  "umbral_verde": 95,
+  "umbral_amarillo": 80
+}

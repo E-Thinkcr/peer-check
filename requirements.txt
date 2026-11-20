@@ -1,0 +1,3 @@
+openpyxl>=3.1
+# Protege contra archivos XML maliciosos (openpyxl lo usa automáticamente si está instalado)
+defusedxml>=0.7
